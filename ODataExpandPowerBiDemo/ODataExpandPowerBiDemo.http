@@ -1,0 +1,6 @@
+@ODataExpandPowerBiDemo_HostAddress = http://localhost:5231
+
+GET {{ODataExpandPowerBiDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
